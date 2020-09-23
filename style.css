@@ -1,0 +1,17 @@
+>
+
+body {
+    background-color: aquamarine;
+    height: 100vh;
+}
+.container {
+    background-color: aquamarine;
+    height: 100vh;
+}
+
+.btn {
+    width: 100%;
+    border:none;
+    outline: none;
+    background-color: aqua;
+}
